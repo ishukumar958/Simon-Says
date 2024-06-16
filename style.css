@@ -44,4 +44,7 @@ body {
         height: 117px;
     width: 117px;
     }
+    h2 {
+        font-size: 9vw;
+    }
 }
