@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 
-.btn {
+.box {
     height: 200px;
     width: 200px;
     border-radius: 20%;
@@ -40,7 +40,7 @@ body {
 }
 
 @media(min-width:320px) and (max-width:480px) {
-    .btn {
+    .box {
         height: 117px;
     width: 117px;
     }
